@@ -1,2 +1,2 @@
-# New-Tour
+# NewTour Application
 Testing New Tour GUI
